@@ -1,9 +1,10 @@
+## Olá, eu sou o Cass!✨
 - 👋 Hi, I’m @Akageluv
 - 👀 I’m interested in tecnology and crypto
 - 🌱 I’m currently learning python
 - 📫 How to reach me ...
 
-## Olá, eu sou o Cass!✨
+
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassiano-assumpcao/)
