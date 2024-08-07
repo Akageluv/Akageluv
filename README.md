@@ -1,5 +1,5 @@
-## Hey, i'am Cass!✨
-- 👋 Hi, I’m @Akageluv
+## Hey, i'am Cass!!
+- 👋 Hi, I’m @Cassiano
 - 👀 I’m interested in tecnology and crypto
 - 🌱 I’m currently learning python
 - 📫 Discord: Akageluv
