@@ -12,7 +12,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cass.assumpcao/?utm_source=ig_web_button_share_sheet)
 
 
-
+[![Cass GitHub stats](https://github-readme-stats.vercel.app/api?username=CassAssump)](https://github.com/anuraghazra/github-readme-stats)
 ![Cass GitHub stats](https://github-readme-stats.vercel.app/api?username=Akageluv&show_icons=true&theme=tokyonight)
 
 ### Lenguagens and tools
