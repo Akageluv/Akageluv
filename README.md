@@ -1,10 +1,7 @@
-## Hey, i'am Cass!!
-- 👋 Hi, I’m @Cassiano
-- 👀 I’m interested in tecnology and crypto
-- 🌱 I’m currently learning python
-- 📫 Discord: Akageluv
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e47500&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4500&pause=100&color=E47500&background=FFFFFF00&center=true&width=435&lines=hello%2C+i'm+Cass;im+a+back-end+developer;+i'm+from+Brazil;Welcome.)](https://git.io/typing-svg)
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:assumpcao.cassiano@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassiano-assumpcao/)
@@ -19,19 +16,3 @@
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-                      _                        
-                      \`*-.                    
-                       )  _`-.                 
-                      .  : `. .                
-                      : _   '  \               
-                      ; *` _.   `*-._          
-                      `-.-'          `-.       
-                        ;       `       `.     
-                        :.       .        \    
-                        . \  .   :   .-'   .   
-                        '  `+.;  ;  '      :   
-                        :  '  |    ;       ;-. 
-                        ; '   : :`-:     _.`* ;
-                     .*' /  .*' ; .*`- +'  `*' 
-                     `*-*   `*-*  `*-*'        
