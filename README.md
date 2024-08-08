@@ -1,4 +1,4 @@
-
+![octocat-1723129974606](https://github.com/user-attachments/assets/da7d4dda-d46a-4237-b2c0-d76c96002589)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e47500&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4500&pause=100&color=E47500&background=FFFFFF00&center=true&width=435&lines=hello%2C+i'm+Cass;im+a+back-end+developer;+i'm+from+Brazil;Welcome.)](https://git.io/typing-svg)
@@ -13,4 +13,13 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassiano-assumpcao/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](644769428797521940)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cass.assumpcao/?utm_source=ig_web_button_share_sheet)
+
+
+![octocat-1723130127345 (1)](https://github.com/user-attachments/assets/2a11c8fa-ee1b-4140-9916-4297f54f7933)
+
+
+
+
+
+
 
